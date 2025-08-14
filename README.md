@@ -4,6 +4,9 @@ Control your RC car **anywhere in the world** using the **Blynk IoT app** and an
 This project uses a **joystick widget** for smooth forward/backward and left/right tank-style movement.  
 
 ---
+## 📸 Demo Preview  
+
+
 
 ## ✨ Features  
 - 🌐 **Wi-Fi Control** — drive your car remotely via Blynk IoT.  
@@ -29,7 +32,7 @@ This project uses a **joystick widget** for smooth forward/backward and left/rig
 
 ## 📱 Blynk App Setup  
 
-1. Create a **Blynk IoT project** (Template Name: `RC CAR`).
+1. Create a **Blynk IoT project** (Template Name: `RC CAR`). [Create a Blynk.io account if you already don't have one!]
 2. Add a **Joystick widget** and set it to **merge mode**:  
    - **Vertical (Y-axis)** → Virtual Pin **V0** (0=Backward, 1=Stop, 2=Forward)  
    - **Horizontal (X-axis)** → Virtual Pin **V1** (0=Left, 1=Stop, 2=Right)  
@@ -51,31 +54,15 @@ This project uses a **joystick widget** for smooth forward/backward and left/rig
 
 ---
 
-## 💻 Code  
-
-```cpp
-// Full source code is in this repository
-#include <ESP8266WiFi.h>
-#include <BlynkSimpleEsp8266.h>
-
-// Motor pins, Wi-Fi credentials, and Blynk setup here...
-```
-
----
 
 ## 🚀 Getting Started  
 
-1. **Upload the code** to your ESP8266 using Arduino IDE.  
+1. **Upload the code** to your ESP8266 using Arduino IDE and make sure you have changed the #wifi and #password to your own personal credentials!.
 2. **Power up** your RC car and open the Blynk app.  
 3. Push the **joystick** to move your car in real-time!  
 
 ---
 
-## 📸 Demo Preview  
-
-*(Add a GIF or image of your RC car here)*  
-
----
 
 ## 📄 License  
 This project is open-source under the MIT License — feel free to modify and share.  
