@@ -82,4 +82,4 @@ This project is open-source under the MIT License — feel free to modify and sh
 
 ---
 
-💡 *Built with love by Gautham D.*  
+💡 *Built with ♥ by MAXONXOXO!*  
