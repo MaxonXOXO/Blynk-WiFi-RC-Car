@@ -17,6 +17,9 @@ This project uses a **joystick widget** for smooth forward/backward and left/rig
 ![13](https://github.com/user-attachments/assets/b51ac1b9-2da6-42e5-8be9-09c494121d50)
 ![14](https://github.com/user-attachments/assets/45f3b993-783c-4915-aced-0e994b2ec6a6)
 
+ONLY USE AN ESP-8266 microcontroller for the code given.
+![7](https://github.com/user-attachments/assets/8af8e728-3c1d-49e7-ac23-0c8941be89bd)
+
 ## ✨ Features  
 - 🌐 **Wi-Fi Control** — drive your car remotely via Blynk IoT.  
 - 🎮 **Joystick Steering** — tank-style turns for sharp maneuvering.  
