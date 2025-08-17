@@ -8,7 +8,6 @@ This project uses a **joystick widget** for smooth forward/backward and left/rig
 
 ![3](https://github.com/user-attachments/assets/136c8e0c-14f2-4cb6-bc53-948a9ffe2f2e)
 ![2](https://github.com/user-attachments/assets/e7c1cb89-2b59-400e-bdf4-d745e1f9e72d)
-![1](https://github.com/user-attachments/assets/f32fb014-cf14-4c8f-b495-c7a1ba8b282d)
 ![4](https://github.com/user-attachments/assets/1a9cbf39-d74f-4a46-a04d-5511961b43e8)
 ![5](https://github.com/user-attachments/assets/06da1235-b5fd-4e3a-a98f-809125d568e0)
 ![6](https://github.com/user-attachments/assets/a2f5f1aa-4d27-4fdd-9140-40000d029b2d)
@@ -71,11 +70,16 @@ ONLY USE AN ESP-8266 microcontroller for the code given.
 
 1. **Upload the code** to your ESP8266 using Arduino IDE and make sure you have changed the #wifi and #password to your own personal credentials!.
 2. **Power up** your RC car and open the Blynk app.  
-3. Push the **joystick** to move your car in real-time!  
-![9](https://github.com/user-attachments/assets/76723653-d4a9-4205-a2de-c1e6f9bcaf76)
-![11](https://github.com/user-attachments/assets/e9b07552-e521-457c-9afa-23919f50ac5b)
-![12](https://github.com/user-attachments/assets/1ed9b586-fdcf-4f10-b699-505a3dff0005)
-![10](https://github.com/user-attachments/assets/fb829b9b-5575-4af3-a37d-fe99f26f2f4f)
+3. Push the **joystick** to move your car in real-time!
+
+---
+ 
+ ## App setup :
+ 
+![9](https://github.com/user-attachments/assets/76723653-d4a9-4205-a2de-c1e6f9bcaf76)        ![11](https://github.com/user-attachments/assets/e9b07552-e521-457c-9afa-23919f50ac5b)
+
+![12](https://github.com/user-attachments/assets/1ed9b586-fdcf-4f10-b699-505a3dff0005)      ![10](https://github.com/user-attachments/assets/fb829b9b-5575-4af3-a37d-fe99f26f2f4f)
+
 
 ---
 
